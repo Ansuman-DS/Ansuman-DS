@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 linkedin.com/in/ansuman-mishra-0a15052b3 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: A Engineer
+- ⚡ Fun fact: Flamingos aren't born Pink
 
 <!---
 Ansuman/Ansuman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
