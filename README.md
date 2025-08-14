@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ansuman
 - 👀 I’m interested in Development and AI/ML
-- 🌱 I’m currently completed 3rd year in CSE
+- 🌱 I’m currently in my 4th year of graduation in CSE
 - 💞️ I’m looking to collaborate on Projects on Java, Python, AI/ML, Data Science 
 - 📫 How to reach me 
 linkedin.com/in/ansuman-mishra-0a15052b3 
